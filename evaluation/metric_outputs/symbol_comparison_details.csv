@@ -1,0 +1,111 @@
+paper_id,equation_no,symbol,annotated_definition,generated_definition,present_in_output,resolved,correct,match_reason
+2506.06618,1,vec{x},positional vector,,True,False,False,unresolved
+2506.06618,1,psi,wavefunction,wavefunction in polar form,True,True,True,definition contains match
+2506.06618,1,hbar,constant,reduced Planck constant,True,True,True,definition contains match
+2506.06618,1,t,time,,True,False,False,unresolved
+2506.06618,1,n,probability density,probability density,True,True,True,exact normalized match
+2506.06618,1,i,imaginary unit,imaginary unit,True,True,True,exact normalized match
+2506.06618,1,S,both real-valued fields,both real-valued fields,True,True,True,exact normalized match
+2506.06618,2,vec{u},flow velocity,flow velocity,True,True,True,exact normalized match
+2506.06618,2,m,mass,probability flux Sakurai,True,True,False,"low token overlap r=0.00, p=0.00"
+2506.06618,2,S,both real-valued fields,both real-valued fields,True,True,True,exact normalized match
+2506.06618,3,vec{x},positional vector,,True,False,False,unresolved
+2506.06618,3,hbar,constant,reduced Planck constant,True,True,True,definition contains match
+2506.06618,3,psi,wavefunction,wave function,True,True,True,exact normalized match
+2506.06618,3,i,imaginary unit,imaginary unit,True,True,True,exact normalized match
+2506.06618,3,t,time,,True,False,False,unresolved
+2506.06618,3,V,Potential barrier,particle approaching a potential barrier,True,True,True,definition contains match
+2506.06618,4,n,probability density,probability density,True,True,True,exact normalized match
+2506.06618,4,t,time,,True,False,False,unresolved
+2506.06618,4,m,mass,probability flux Sakurai,True,True,False,"low token overlap r=0.00, p=0.00"
+2506.06618,4,S,both real-valued fields,constant,True,True,False,"low token overlap r=0.00, p=0.00"
+2506.06618,5,vec{x},positional vector,,True,False,False,unresolved
+2506.06618,5,hbar,constant,reduced Planck constant,True,True,True,definition contains match
+2506.06618,5,S,both real-valued fields,both real-valued fields,True,True,True,exact normalized match
+2506.06618,5,t,time,,True,False,False,unresolved
+2506.06618,5,V,Potential barrier,particle approaching a potential barrier,True,True,True,definition contains match
+2506.06618,5,n,probability density,probability density,True,True,True,exact normalized match
+2506.06618,6,vec{u},flow velocity,small,True,True,False,"low token overlap r=0.00, p=0.00"
+2506.06618,6,n,probability density,probability density,True,True,True,exact normalized match
+2506.06618,6,t,time,constant,True,True,False,"low token overlap r=0.00, p=0.00"
+2506.06618,7,vec{u},flow velocity,small,True,True,False,"low token overlap r=0.00, p=0.00"
+2506.06618,7,vec{x},positional vector,,True,False,False,unresolved
+2506.06618,7,t,time,constant,True,True,False,"low token overlap r=0.00, p=0.00"
+2506.06618,7,m,mass,probability flux Sakurai,True,True,False,"low token overlap r=0.00, p=0.00"
+2506.06618,7,V,Potential barrier,particle approaching a potential barrier,True,True,True,definition contains match
+2506.06618,7,Q,Bohm quantum potential,Bohm quantum potential,True,True,True,exact normalized match
+2407.08930,1,x_ij,indicator variables,indicator variables,True,True,True,exact normalized match
+2407.08930,2,j,constant,circuits,True,True,False,"low token overlap r=0.00, p=0.00"
+2407.08930,2,L,list of all isomorphic layouts,list of all isomorphic layouts obtained from mapomatic,True,True,True,definition contains match
+2407.08930,2,x_ij,indicator variables,indicator variables,True,True,True,exact normalized match
+2407.08930,3,phi,,,True,False,False,unresolved
+2407.08930,3,x_ij,indicator variables,indicator variables,True,True,True,exact normalized match
+2407.08930,3,k,circuit,circuits,True,True,True,definition contains match
+2407.08930,3,i,circuit,circuits,True,True,True,definition contains match
+2407.08930,3,C,circuit,circuits,True,True,True,definition contains match
+2407.08930,3,j,constant,circuits,True,True,False,"low token overlap r=0.00, p=0.00"
+2407.08930,3,b,buffer distance b,,False,False,False,unresolved
+2407.08930,3,l,best layout,boundary qubit in layout l,True,True,False,"low token overlap r=0.50, p=0.25"
+2407.08930,3,L,list of all isomorphic layouts,list of all isomorphic layouts obtained from mapomatic,True,True,True,definition contains match
+2407.08930,3,x_kl,indicator variables,,True,False,False,unresolved
+2407.08930,4,i,circuit,area of circuit,True,True,True,definition contains match
+2407.08930,4,C,List of circuit,circuits,True,True,False,"low token overlap r=0.00, p=0.00"
+2407.08930,4,j,constant,circuits,True,True,False,"low token overlap r=0.00, p=0.00"
+2407.08930,4,L,list of all isomorphic layouts,list of all isomorphic layouts obtained from mapomatic,True,True,True,definition contains match
+2407.08930,4,q_ij,score variable,,True,False,False,unresolved
+2407.08930,4,A_i,area of circuit i,,True,False,False,unresolved
+2407.08930,4,x_ij,indicator variables,indicator variables,True,True,True,exact normalized match
+2410.22635,1,mathbf{k}_s,"transverse
+wavevector components",transverse wavevector components of signal (s) and idler (i) photons,True,True,True,definition contains match
+2410.22635,1,mathbf{k}_i,"transverse
+wavevector components",transverse wavevector components of signal (s) and idler (i) photons,True,True,True,definition contains match
+2410.22635,1,mathcal{A},,Fourier transform,True,True,False,blank annotated/generated definition
+2410.22635,1,psi,"two-photon
+wavefunction",two-photon wavefunction,True,True,True,exact normalized match
+2410.22635,1,lambda_p,central wavelength of the pump laser,central wavelength of the pump laser,True,True,True,exact normalized match
+2410.22635,1,pi,mathematical constant,mathematical constant,True,True,True,exact normalized match
+2410.22635,1,xi,the longitudinal walk-off,longitudinal walk-off which can be tuned changing the orientation of the optical axis of the crystal,True,True,True,token recall 1.00
+2410.22635,1,L,crystal thickness,crystal thickness,True,True,True,exact normalized match
+2410.22635,2,tilde{mathcal{A}},Fourier Tranform of A,Fourier transform,True,True,True,definition contains match
+2410.22635,2,mathbf{x},transverse position,,True,False,False,unresolved
+2410.22635,2,hat{a}_x^{dagger^2},photon creation operator,,False,False,False,unresolved
+2410.22635,2,psi,bi-photon state,bi-photon state,True,True,True,exact normalized match
+2410.22635,3,hat{a}_x^{dagger},photon creation operator,photon creation operator,True,True,True,exact normalized match
+2410.22635,3,mathbf{x},function,,True,False,False,unresolved
+2410.22635,3,hat{a}_textloss^{dagger},operator,,True,False,False,unresolved
+2410.22635,3,t,function,fact that the structure of a phase-only object,True,True,False,"low token overlap r=0.00, p=0.00"
+2410.22635,3,i,constant,transverse wavevector components of signal (s) and idler (i) photons,True,True,False,"low token overlap r=0.00, p=0.00"
+2410.22635,3,T,transmittance power,function whose absolute value squared is the transmittance power,True,True,True,definition contains match
+2410.22635,4,tilde{mathcal{A}},amplitute function,Fourier transform,True,True,False,"low token overlap r=0.00, p=0.00"
+2410.22635,4,mathbf{x},transverse position,,True,False,False,unresolved
+2410.22635,4,hat{a}_x^{dagger},photon creation operator,photon creation operator,True,True,True,exact normalized match
+2410.22635,4,psi,bi-photon state,transmitted state,True,True,False,"low token overlap r=0.33, p=0.50"
+2410.22635,4,t,time,fact that the structure of a phase-only object,True,True,False,"low token overlap r=0.00, p=0.00"
+2410.22635,5,mathbf{X}_i^{prime},transverse coordinates,,False,False,False,unresolved
+2410.22635,5,mathbf{X}_s^{prime},transverse coordinates,,False,False,False,unresolved
+2410.22635,5,mathbf{X}_-^{prime},transverse coordinates,,False,False,False,unresolved
+2410.22635,5,mathcal{E}_zprime,"pump amplitude func-
+tion",,False,False,False,unresolved
+2410.22635,5,mathbf{X}_+^{prime},transverse coordinates,,False,False,False,unresolved
+2410.22635,5,mathbf{X}_-,transverse coordinates,difference coordinate,True,True,False,"low token overlap r=0.00, p=0.00"
+2410.22635,5,mathbf{X}_+,transverse coordinates,sum coordinate,True,True,False,"low token overlap r=0.00, p=0.00"
+2410.22635,5,mathcal{E}_z,"pump amplitude func-
+tion",pump function,True,True,True,"token overlap r=0.67, p=1.00"
+2410.22635,5,psi_zprime,bi-photon wavefunction in z′,bi-photon wavefunction,True,True,True,definition contains match
+2410.22635,5,lambda_p,central wavelength of the pump laser,central wavelength of the pump laser,True,True,True,exact normalized match
+2410.22635,5,z,distance,longitudinal position,True,True,False,"low token overlap r=0.00, p=0.00"
+2409.05504,1,lambda,cavity wavelenght,cavity wavelength,True,True,False,"low token overlap r=0.50, p=0.50"
+2409.05504,1,m,order of mode,order of the mode,True,True,True,token recall 1.00
+2409.05504,1,c,speed of light,speed of light,True,True,True,exact normalized match
+2409.05504,1,v,cavity frequency,,True,False,False,unresolved
+2409.05504,1,n,refractive index of material,refractive index of the material,True,True,True,token recall 1.00
+2409.05504,2,v,cavity frequency,,True,False,False,unresolved
+2409.05504,2,c,speed of light,speed of light,True,True,True,exact normalized match
+2409.05504,3,lambda,cavity wavelength,cavity wavelength,True,True,True,exact normalized match
+2409.05504,4,V,,,True,False,False,unresolved
+2409.05504,4,I,light intensities,,True,False,False,unresolved
+2409.05504,5,tau,,,True,False,False,unresolved
+2409.05504,5,pi,mathematical constant,mathematical constant,True,True,True,exact normalized match
+2409.05504,5,lambda_0,emission wavelength,,True,False,False,unresolved
+2409.05504,5,lambda,cavity wavelength,cavity wavelength,True,True,True,exact normalized match
+2409.05504,5,c,speed of light,speed of light,True,True,True,exact normalized match
